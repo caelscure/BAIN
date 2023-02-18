@@ -1,5 +1,5 @@
 ---
-title: "1 Technische Grundlagen"
+title: "Technische Grundlagen"
 date: 2022-02-16
 ---
 
