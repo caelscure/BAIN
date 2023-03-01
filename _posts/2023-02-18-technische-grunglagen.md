@@ -1,6 +1,6 @@
 ---
 title: "Technische Grundlagen"
-date: 2022-02-16
+date: 2022-02-18
 ---
 
 Die erste Vorlesung drehte sich vorallem um die Einführung der Werkzeuge, welche wir für die Übungen und für unser Lerntagebuch benutzen werden. Zusätzlich wurden die Anforderungen an den Leistungsnachweis geklärt und die Lernziele vermittelt.
