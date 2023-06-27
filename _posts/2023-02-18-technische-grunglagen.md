@@ -1,5 +1,5 @@
 ---
-title: "Technische Grundlagen"
+title: "1 Technische Grundlagen"
 date: 2022-02-18
 ---
 
@@ -10,6 +10,7 @@ Die Lernziele des Kurses beziehen sich hauptsächlich auf das Verständnis von B
 
 # Ablauf der Lektionen
 ![Ablauf Kurs](/BAIN/assets/BAIN.png)
+(Abbildung: Schaubild zu Lerninhatlen (https://pad.gwdg.de/MRhIEw88Rd-rrvzogVjpwA#))
 Die Abbildung oben zeigt die Lernizele dargestellt als Prozessvorgänge. Der Unterricht folgt diesem Diagramm, beginnend mit der Bibliothekssoftware Koha. Bei Koha, ArchivesSpace und DSpace wird jeweils das Extrahieren, Aufbereiten und Integrieren von Metadatensets mit Open Archive Initaitive Protocol Metadata Harvesting (OAI-PMH) über VuFindHarvest  angeschaut. Diese werden in marcEdit vereinheitlicht und in der Suchmaschine Solr und VuFind eingesetzt. Zusätzlich lernen wir den umgang mit OpenRefine und wie dort Daten für den Metadatenstandard MARC21 aufbereitet werden können.
 
 # Markdown
@@ -20,3 +21,7 @@ Ein Tutorial zu Markdown: [Tutorial](https://www.markdowntutorial.com)
 Ich benutzte Github als Repository für mein Lerntagebuch. Dazu wurde uns mit Github Pages eine Vorlage zur Verfügung gestellt.  [Github Codespaces](https://github.com/features/codespaces) ist eine Möglichkeit Repositorys online in Entwicklungsumgebungen zu laden und auszuführen. Im Kurs benutzen wir Codespace als Entwicklungsraum für Übungen.
 [Benutze Codespace](https://github.com/devcontainers/images/tree/main/src/universal)
 Eine Codespace basiert auf dem Konzept der [Docker](https://phoenixnap.com/kb/docker-image-vs-container) Container. Dies ist eine alternative zur Virtual Machine. Der Vorteil besteht darin, dass alles auf 1 Betriebsystem lauft, verschiedene Anwendungen jedoch abgekapselt werden können, sodass nicht das ganze Betriebsystem korrupiert werden kann.
+
+# What i learned
+- Github besizt die möglichkeit Codespaces als Entwicklungsumgebung zu generieren.
+- Markdown ist eine von vielen Systemen lesbare Auszeichnungssprache.
