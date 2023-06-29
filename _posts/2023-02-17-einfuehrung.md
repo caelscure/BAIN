@@ -1,6 +1,6 @@
 ---
-title: "Wo bin ich gestartet?"
-date: 2023-02-17
+title: "0 Wo bin ich gestartet?"
+date: 2023-02-10
 ---
 
 Wenn ich an Bibliotheks- und Archivinformatik denke, ist das erste, was mir in den Sinn kommt, Bibliotheksmanagementsoftware. Vorallem die Programmierung und Unterhaltund dieser. Ich kann mir vorstellen, dass Archivmanagementsoftware ähnlich aufgebaut ist.
