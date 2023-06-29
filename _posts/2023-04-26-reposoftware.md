@@ -1,6 +1,6 @@
 ---
 title: "7 Repository-Software für Publikationen und Forschungsdaten"
-date: 2023-02-16
+date: 2023-04-16
 ---
 
 Repository-Software ist ein Softwaresystem, welches für die Verwaltung digitaler Repositorien und Digital-Asset-Management entwickelt wurden. Die Repositorien werden verwendet, um digitale Inhalte wie Forschungsdaten, digitale Sammlungen, institutionelle Publikationen und multimediale Ressourcen zu speichern, zu organisieren und zugänglich zu machen.
