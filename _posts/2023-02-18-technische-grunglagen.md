@@ -1,6 +1,6 @@
 ---
 title: "1 Technische Grundlagen"
-date: 2023-02-18
+date: 2023-02-13
 ---
 
 Die erste Vorlesung drehte sich vorallem um die Einführung der Werkzeuge, welche wir für die Übungen und für unser Lerntagebuch benutzen werden. Zusätzlich wurden die Anforderungen an den Leistungsnachweis geklärt und die Lernziele vermittelt.
